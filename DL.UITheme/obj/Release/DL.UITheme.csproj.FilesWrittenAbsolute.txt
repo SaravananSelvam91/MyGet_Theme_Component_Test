@@ -1,0 +1,8 @@
+/Users/saravanan/Projects/DynamicStyle/DL.UITheme/obj/Release/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/saravanan/Projects/DynamicStyle/DL.UITheme/obj/Release/DL.UITheme.Styles.xaml
+/Users/saravanan/Projects/DynamicStyle/DL.UITheme/obj/Release/DL.UITheme.Styles.xaml.g.cs
+/Users/saravanan/Projects/DynamicStyle/DL.UITheme/bin/Release/DL.UITheme.dll
+/Users/saravanan/Projects/DynamicStyle/DL.UITheme/obj/Release/DL.UITheme.dll
+/Users/saravanan/Projects/DynamicStyle/DL.UITheme/bin/Release/Xamarin.Forms.Core.dll
+/Users/saravanan/Projects/DynamicStyle/DL.UITheme/bin/Release/Xamarin.Forms.Xaml.dll
+/Users/saravanan/Projects/DynamicStyle/DL.UITheme/bin/Release/Xamarin.Forms.Platform.dll

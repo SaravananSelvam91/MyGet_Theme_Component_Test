@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ResourceDictionary xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="DL.UITheme.Styles">
+	<Style TargetType="Button">
+		<Setter Property="WidthRequest" Value="90" />
+		<Setter Property="Margin" Value="10" />
+		<Setter Property="HorizontalOptions" Value="Start" />
+	</Style>
+	<!--  Button Styling With Border Color and Background Color for Primary Button  -->
+	<Style TargetType="Button" x:Key="Button.Primary">
+		<Setter Property="BorderColor" Value="#2E6DA4" />
+		<Setter Property="TextColor" Value="#FFFFFF" />
+		<Setter Property="BackgroundColor" Value="#337AB7" />
+	</Style>
+	<!-- Default Button Style -->
+	<Style TargetType="Button" x:Key="Button.Default">
+		<Setter Property="BorderColor" Value="#CCCCCC" />
+		<Setter Property="TextColor" Value="#343434" />
+		<Setter Property="BackgroundColor" Value="#FFFFFF" />
+		<Setter Property="BorderWidth" Value="2" />
+	</Style>
+	<!-- Header Label Style -->
+	<Style TargetType="Label" x:Key="Label.Header">
+		<Setter Property="FontAttributes" Value="Bold" />
+		<Setter Property="TextColor" Value="Red" />
+		<Setter Property="FontSize" Value="75" />
+		<Setter Property="FontFamily" Value="Charcoal" />
+	</Style>
+	<!-- Sub Header Label Style -->
+	<Style TargetType="Label" x:Key="Label.SubHeader">
+		<Setter Property="FontAttributes" Value="Italic" />
+		<Setter Property="TextColor" Value="Aqua" />
+		<Setter Property="FontSize" Value="50" />
+		<Setter Property="FontFamily" Value="Lucida Sans Unicode" />
+	</Style>
+	<!-- SmallerHeader Label Style -->
+	<Style TargetType="Label" x:Key="Label.Small">
+		<Setter Property="FontAttributes" Value="Italic" />
+		<Setter Property="TextColor" Value="Lime" />
+		<Setter Property="FontSize" Value="50" />
+		<Setter Property="FontFamily" Value="Trebuchet MS" />
+	</Style>
+</ResourceDictionary>
